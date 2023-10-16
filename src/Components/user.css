@@ -1,0 +1,42 @@
+.userContainer {
+    display: flex;
+    margin-top: 2em;
+    border: 1px solid pink;
+    padding: 5px;
+}
+
+.updateButton {
+    color: hsla(0, 0%, 100%, 0.9);
+    background: hsla(350, 85%, 79%, 0.7);
+    padding-block: 0.1rem;
+    padding-inline: 0.5rem;
+    padding-block: 0.4rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+}
+
+.deleteButton {
+    color: hsla(0, 0%, 100%, 0.9);
+    background: hsla(350, 82%, 78%, 0.7);
+    padding-block: 0.1rem;
+    padding-inline: 0.5rem;
+    padding-block: 0.4rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+}
+
+.submitButton {
+    color: hsla(0, 0%, 100%, 0.9);
+    background: hsla(350, 82%, 78%, 0.7);
+    padding-block: 0.1rem;
+    padding-inline: 0.5rem;
+    padding-block: 0.4rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+}
